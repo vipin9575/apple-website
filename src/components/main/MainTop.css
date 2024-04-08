@@ -1,0 +1,9 @@
+.img-responsive {
+  height: auto;
+}
+
+@media (max-width: 800px) {
+  .img-responsive {
+    height: 608px;
+  }
+}

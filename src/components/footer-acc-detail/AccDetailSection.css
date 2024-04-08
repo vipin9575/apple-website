@@ -1,0 +1,23 @@
+.acc-detail-section h4 {
+  font-size: 13px;
+  font-weight: 600;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.acc-detail-section p {
+  font-size: 12px;
+  margin-bottom: 8px;
+  color: #767677;
+}
+
+.acc-detail-section-one h4 {
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.acc-detail-section-one p {
+  font-size: 12px;
+  margin-bottom: 8px;
+  color: #767677;
+}
